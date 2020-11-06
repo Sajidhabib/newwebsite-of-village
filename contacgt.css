@@ -1,0 +1,139 @@
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+#comp-jxabsedqinlineContent {
+    height: auto;
+    width: 610px;
+    position: relative;
+}
+
+#comp-jxabsedqinlineContent-gridWrapper {
+    pointer-events: none;
+}
+
+#comp-jxabsedqinlineContent-gridContainer {
+    position: static;
+    display: grid;
+    height: auto;
+    width: 100%;
+    min-height: auto;
+    grid-template-rows: 1fr;
+    grid-template-columns: 100%;
+}
+
+#comp-jxabseg1 {
+    position: relative;
+    margin: 0px 0px 0px 0;
+    left: 0px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#comp-jxabsedqcenteredContent {
+    position: relative;
+}
+
+#comp-jxabsedqinlineContent-gridContainer > * {
+    pointer-events: auto;
+}
+
+#comp-jxabsedqinlineContent-gridContainer > [id$="-rotated-wrapper"] {
+    pointer-events: none;
+}
+
+#comp-jxabsedqinlineContent-gridContainer > [id$="-rotated-wrapper"] > * {
+    pointer-events: auto;
+}
+    
+#comp-jxabseg1form {
+    height: auto;
+    width: 610px;
+    position: relative;
+}
+
+#comp-jxabseg1form-gridWrapper {
+    pointer-events: none;
+}
+
+#comp-jxabseg1form-gridContainer {
+    position: static;
+    display: grid;
+    height: auto;
+    width: 100%;
+    min-height: auto;
+    grid-template-rows: min-content min-content min-content min-content 1fr;
+    grid-template-columns: 100%;
+}
+
+#comp-jxabsegg {
+    position: relative;
+    margin: 14px 0px 12px 0;
+    left: 15px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#comp-jxabsegn {
+    position: relative;
+    margin: 14px 0px 12px 0;
+    left: 318px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#comp-jxabsegt {
+    position: relative;
+    margin: 0px 0px 13px 0;
+    left: 15px;
+    grid-area: 2 / 1 / 3 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#comp-jxabsegy {
+    position: relative;
+    margin: 0px 0px 8px 0;
+    left: 15px;
+    grid-area: 3 / 1 / 4 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#comp-jxabseh4 {
+    position: relative;
+    margin: 0px 0px 5px 0;
+    left: 235px;
+    grid-area: 4 / 1 / 5 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#comp-jxabsehb {
+    position: relative;
+    margin: 0px 0px 9px 0;
+    left: 52px;
+    grid-area: 5 / 1 / 6 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#comp-jxabseg1centeredContent {
+    position: relative;
+}
+
+#comp-jxabseg1form-gridContainer > * {
+    pointer-events: auto;
+}
+
+#comp-jxabseg1form-gridContainer > [id$="-rotated-wrapper"] {
+    pointer-events: none;
+}
+
+#comp-jxabseg1form-gridContainer > [id$="-rotated-wrapper"] > * {
+    pointer-events: auto;
+}

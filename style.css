@@ -1,0 +1,51 @@
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+
+.navbar{
+          display: flex !important;
+          justify-content: space-around !important;
+}
+ .navbar-nav a{
+    display: flex !important;
+    justify-content: space-around !important;
+    text-align: right !important;
+    word-spacing:5px;
+    
+}
+ul{
+    display: flex !important;
+
+}
+.navbar-brand{
+    font-size: x-large ;
+    font-weight: 900px;
+    
+}
+.nav-link{
+    text-transform: capitalize;
+}
+.container{
+    max-width: 1200px;
+    margin: auto;
+    padding: 15px;
+    overflow: auto;
+    align-content: center;
+}
+.gallery{
+    margin: 5px;
+    float: left;
+    width: 360px;
+    padding: 15px;
+}
+.gallery img{
+    width: 100%;
+    height: auto;
+}
+.desc{
+    padding: 15px;
+    text-align: center;
+}
+
